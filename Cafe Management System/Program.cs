@@ -1,5 +1,3 @@
-using Cafe_Management_System.UI;
-
 namespace Cafe_Management_System
 {
     internal static class Program
