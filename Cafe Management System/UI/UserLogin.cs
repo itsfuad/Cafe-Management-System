@@ -50,7 +50,7 @@ namespace Cafe_Management_System.UI
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            //later implement
         }
 
         private void textBox2_Click(object sender, EventArgs e)

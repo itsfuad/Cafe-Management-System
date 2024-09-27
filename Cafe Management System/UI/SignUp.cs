@@ -19,17 +19,17 @@ namespace Cafe_Management_System.UI
 
         private void label3_Click(object sender, EventArgs e)
         {
-
+            //later implement
         }
 
         private void SignUp_Load(object sender, EventArgs e)
         {
-
+            //later implement
         }
 
         private void panel1_Paint(object sender, PaintEventArgs e)
         {
-
+            //later implement
         }
 
         private void button2_Click(object sender, EventArgs e)
